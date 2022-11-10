@@ -1,0 +1,1 @@
+SELECT * FROM `economy_users`;

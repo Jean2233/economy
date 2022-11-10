@@ -1,0 +1,1 @@
+UPDATE `economy_users` SET wallet_balance=? WHERE user_id=?;

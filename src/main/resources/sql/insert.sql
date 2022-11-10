@@ -1,0 +1,1 @@
+INSERT INTO `economy_users` VALUES (?,?,?);
