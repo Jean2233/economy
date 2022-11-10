@@ -1,0 +1,4 @@
+name: Economy
+version: 1.0.0
+main: com.github.jean2233.economy.EconomyPlugin
+description: Trial plugin for Orbital Studios
